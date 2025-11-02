@@ -14,3 +14,4 @@ graph TD
     I --> K{{In Phiếu báo điểm/Bảng điểm}};
     K --> L([Kết Thúc]);
     J --> L;
+```
